@@ -21,10 +21,10 @@
     },
     "autoload": {
         "files": [
-            "registration.php"
+            "src/registration.php"
         ],
         "psr-4": {
-            "D3p1\\GeoIp\\": ""
+            "D3p1\\GeoIp\\": "src"
         }
     }
 }
