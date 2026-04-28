@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/d3p1/magento2-geo-ip/compare/v1.0.0...v1.1.0) (2026-04-28)
+
+
+### Features
+
+* improve composer definition [[#1](https://github.com/d3p1/magento2-geo-ip/issues/1)] ([5fea85c](https://github.com/d3p1/magento2-geo-ip/commit/5fea85c7fac8633609fec89937ef7b43176a64e2))
+
 # 1.0.0 (2026-04-28)
 
 
